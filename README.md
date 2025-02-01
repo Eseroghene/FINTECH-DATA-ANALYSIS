@@ -32,7 +32,7 @@ This project focuses on:
 ### WORKFLOW:
 **Research & Data Collection**
 - Survey : Conducted a small survey to gather initial insights on:
- - Demographics (Age, Gender, Employment, Income Level).
+ - Demographics (Age,Income Level).
  - Financial Literacy (Understanding of banking, investments, and budgeting).
  - Preferred FinTech Services (Mobile banking, digital payments, micro-loans).
  - Service Delivery Preferences (Self-service vs. agent banking).

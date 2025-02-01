@@ -14,9 +14,9 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
 ### KEY OBJECTIVES:
 This project focuses on:
-- Identifying Popular FinTech Services: Understanding the most in-demand products like digital payments, mobile banking, micro-lending, and blockchain solutions
-- Analyzing Competitor Pricing Models: Examining how key players structure their transaction fees, loan interest rates, and subscription plans.
-- Developing Detailed Customer Profiles: Segmenting users based on age, income level, employment status, financial literacy, service usage, and preferred delivery methods (e.g., mobile apps vs. agent banking)
+- Identifying Popular FinTech services and understanding the most in-demand products.
+- Analyzing competitor pricing models.
+- Developing detailed customer profiles
 
 ### TOOLS USED:
 **Data Processing & Analysis**

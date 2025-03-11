@@ -169,13 +169,9 @@ Rural users report the lowest satisfaction (69.93% low satisfaction).
 ## Recommendations
 
 - Product Focus: Prioritize Digital Payments & Mobile Banking (most preferred), expand Micro-Lending with better awareness, and promote Blockchain education to increase familiarity.
-
 - Service Delivery: Strengthen Agent Banking for low-literacy users, enhance Mobile & Web platforms for medium- and high-literacy users.
-
 - Customer Targeting: Focus on Young Urban Professionals & Urban Professionals (largest user base), introduce business-specific solutions for SMEs, and boost financial literacy campaigns for rural users.
-
 - Pricing Strategies: Offer loyalty rewards & cashback, implement a hybrid competitive & value-based pricing model, and introduce tiered subscription services for premium users.
-
 - Marketing & Engagement: Use social media for urban professionals, localized campaigns for rural users, and referral incentives to drive adoption.
 
 ## Challenges
